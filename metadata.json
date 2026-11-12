@@ -1,0 +1,6 @@
+{
+  "name": "ESTATIQ AI",
+  "description": "An intelligent real-estate analytics platform that uses machine learning to estimate residential property prices based on property characteristics, amenities, and location preferences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
